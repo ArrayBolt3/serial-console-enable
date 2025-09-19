@@ -1,3 +1,9 @@
+serial-console-enable (3:4.6-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Fri, 19 Sep 2025 16:19:15 +0000
+
 serial-console-enable (3:4.5-1) unstable; urgency=medium
 
   * New upstream version (local package).
